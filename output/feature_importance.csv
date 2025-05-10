@@ -1,0 +1,186 @@
+feature,importance
+age,0.007569346067170344
+workclass,0.0012699844308297426
+fnlwgt,0.002714400824062579
+education,0.0023044606642352735
+education-num,0.019312664103225585
+marital-status,0.014255094782779934
+occupation,0.0024346823119673396
+relationship,0.03324269381962187
+race,0.00021241299165308987
+sex,0.0006368745029118715
+capital-gain,0.02107153256864355
+capital-loss,0.007441768423887125
+hours-per-week,0.005446322389883676
+native-country,0.0005267824604386675
+poly_0,0.008200171276623706
+poly_1,0.0030703997293806394
+poly_2,0.02756844152134392
+poly_3,0.021522696916655835
+poly_4,0.008027999013338121
+poly_5,0.003932575181400568
+poly_6,0.0064870554924919685
+poly_7,0.0032549082573747313
+poly_8,0.03342283182977403
+poly_9,0.018177526178241584
+poly_10,0.0030261116888821702
+poly_11,0.01852794168288093
+poly_12,0.0025782236734159607
+poly_13,0.0037513283510998106
+poly_14,0.00879281881675316
+poly_15,0.001365046503424783
+poly_16,0.0033556217159875536
+poly_17,0.015931988729933868
+poly_18,0.026730598422630016
+poly_19,0.004528715889947381
+poly_20,0.02303509392226645
+poly_21,0.027421524201243927
+poly_22,0.0
+poly_23,0.011680209437808634
+poly_24,0.0059116683763435806
+poly_25,0.0026437795821229126
+poly_26,0.004624634341004526
+age_squared,0.007504021932448726
+age_cubed,0.007369325841213597
+age_log,0.011546426814885113
+fnlwgt_squared,0.003019125796431371
+fnlwgt_cubed,0.0027890237312319394
+fnlwgt_log,0.0029942963270042726
+education-num_squared,0.016046289845622223
+education-num_cubed,0.018007098494496922
+education-num_log,0.024644218667095492
+capital-gain_squared,0.033517976359344594
+capital-gain_cubed,0.02702899089670271
+capital-gain_log,0.027214997577987874
+capital-loss_squared,0.006786603516587456
+capital-loss_cubed,0.0061198108588603715
+capital-loss_log,0.0069332833802137886
+hours-per-week_squared,0.004618803410176561
+hours-per-week_cubed,0.006295760912621828
+hours-per-week_log,0.004841764981892343
+workclass_ Federal-gov,0.00020940648937690226
+workclass_ Local-gov,0.00022565233834772182
+workclass_ Private,0.0003398589828973497
+workclass_ Self-emp-inc,0.00029832832747715357
+workclass_ Self-emp-not-inc,0.0013187787379959548
+workclass_ State-gov,0.00013993015589195592
+workclass_ Without-pay,0.0
+education_ 10th,3.70739930249515e-05
+education_ 11th,8.716555237187197e-05
+education_ 12th,6.311743234613863e-05
+education_ 1st-4th,4.724318714297979e-06
+education_ 5th-6th,3.4154964557210306e-05
+education_ 7th-8th,4.415455005893769e-05
+education_ 9th,2.2686140877176335e-05
+education_ Assoc-acdm,0.00010376369314627909
+education_ Assoc-voc,0.0001731412828075494
+education_ Bachelors,0.0014737974969428894
+education_ Doctorate,0.0004084172956362077
+education_ HS-grad,0.0016233821985978927
+education_ Masters,0.0007873240762911694
+education_ Preschool,2.4025453541982136e-05
+education_ Prof-school,0.0003887406082079134
+education_ Some-college,0.0002581431414375671
+marital-status_ Divorced,0.0030110795184894418
+marital-status_ Married-AF-spouse,6.422560678966848e-05
+marital-status_ Married-civ-spouse,0.06415393086107954
+marital-status_ Married-spouse-absent,1.09854216877377e-05
+marital-status_ Never-married,0.0016139229237065746
+marital-status_ Separated,9.117577802651808e-05
+marital-status_ Widowed,2.8364698538861474e-05
+occupation_ Adm-clerical,0.0001510704668873843
+occupation_ Armed-Forces,0.0
+occupation_ Craft-repair,0.0003099962418248655
+occupation_ Exec-managerial,0.003920305768191274
+occupation_ Farming-fishing,0.0011616483013115735
+occupation_ Handlers-cleaners,0.0003469824508219042
+occupation_ Machine-op-inspct,0.0002658756811661009
+occupation_ Other-service,0.0006144557962788023
+occupation_ Priv-house-serv,3.6751326389706047e-06
+occupation_ Prof-specialty,0.00258670714309301
+occupation_ Protective-serv,0.00015758256177947992
+occupation_ Sales,0.00028470336876719086
+occupation_ Tech-support,0.00037945285801349463
+occupation_ Transport-moving,0.00023463452220836797
+relationship_ Husband,0.031090479415525854
+relationship_ Not-in-family,0.0018032787533699892
+relationship_ Other-relative,3.30289239277238e-05
+relationship_ Own-child,0.0011589497213412153
+relationship_ Unmarried,0.00040198766480546114
+relationship_ Wife,0.0033237319424578005
+race_ Amer-Indian-Eskimo,3.199737364014014e-05
+race_ Asian-Pac-Islander,0.00010976902170909176
+race_ Black,0.00020403215349034027
+race_ Other,6.131872723738603e-05
+race_ White,0.0002104209714280854
+sex_ Female,0.0021449225536799214
+sex_ Male,0.00024032168537921632
+native-country_ Cambodia,2.4088485742900987e-05
+native-country_ Canada,9.910023960415028e-05
+native-country_ China,2.4569469963373005e-05
+native-country_ Columbia,7.0244334606957485e-06
+native-country_ Cuba,2.3697288654519958e-05
+native-country_ Dominican-Republic,5.5571981839935025e-06
+native-country_ Ecuador,2.8388331537611007e-05
+native-country_ El-Salvador,3.1151544152966413e-06
+native-country_ England,6.425960197788114e-05
+native-country_ France,1.1583874103907132e-05
+native-country_ Germany,4.4514524841876e-05
+native-country_ Greece,3.8126774974678486e-05
+native-country_ Guatemala,9.318896314436877e-06
+native-country_ Haiti,1.4445121376733622e-05
+native-country_ Holand-Netherlands,0.0
+native-country_ Honduras,0.0
+native-country_ Hong,7.3096464259437485e-06
+native-country_ Hungary,3.750143823751844e-05
+native-country_ India,7.103560954775163e-05
+native-country_ Iran,5.905521474513709e-05
+native-country_ Ireland,4.4737065032236624e-05
+native-country_ Italy,8.917676022463911e-05
+native-country_ Jamaica,1.0115814957435066e-05
+native-country_ Japan,7.713291459726319e-05
+native-country_ Laos,2.90053313644638e-05
+native-country_ Mexico,3.182471598312094e-05
+native-country_ Nicaragua,1.6184512123316725e-05
+native-country_ Outlying-US(Guam-USVI-etc),0.0
+native-country_ Peru,0.0
+native-country_ Philippines,4.150498127577056e-05
+native-country_ Poland,4.987321470567568e-05
+native-country_ Portugal,1.1497031739473693e-05
+native-country_ Puerto-Rico,3.869738289367002e-05
+native-country_ Scotland,4.385527132294274e-06
+native-country_ South,4.9651197670381294e-05
+native-country_ Taiwan,3.94686556955759e-05
+native-country_ Thailand,0.0
+native-country_ Trinadad&Tobago,3.0385196074487136e-05
+native-country_ United-States,0.00014003117283279098
+native-country_ Vietnam,2.8861932434096443e-05
+native-country_ Yugoslavia,2.180031065465077e-05
+workclass_education_interaction,0.0027555846443755644
+workclass_marital-status_interaction,0.0038420605472759273
+workclass_occupation_interaction,0.0032117671137430644
+workclass_relationship_interaction,0.0038589953668530775
+workclass_race_interaction,0.002030952405000094
+workclass_sex_interaction,0.0015584613913214081
+workclass_native-country_interaction,0.0019710276216894067
+education_marital-status_interaction,0.004377138361820004
+education_occupation_interaction,0.005382032493029032
+education_relationship_interaction,0.0039750618265606335
+education_race_interaction,0.0037662329928643923
+education_sex_interaction,0.002882814753228326
+education_native-country_interaction,0.0037451072269820296
+marital-status_occupation_interaction,0.014936194883158402
+marital-status_relationship_interaction,0.010272716590019581
+marital-status_race_interaction,0.01344747376631698
+marital-status_sex_interaction,0.027035057158787325
+marital-status_native-country_interaction,0.026265356018305028
+occupation_relationship_interaction,0.002730515209441301
+occupation_race_interaction,0.0024227089160927303
+occupation_sex_interaction,0.003790858188495856
+occupation_native-country_interaction,0.002850691156017356
+relationship_race_interaction,0.033494632359637795
+relationship_sex_interaction,0.024875566982040947
+relationship_native-country_interaction,0.027633141713871445
+race_sex_interaction,0.0011865348744686747
+race_native-country_interaction,0.000629031415119686
+sex_native-country_interaction,0.0021877273436455326
